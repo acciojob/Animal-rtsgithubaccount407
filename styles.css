@@ -1,11 +1,17 @@
 /*  your css code here. If applicable */
-#animal-photos {
+ #animal-photos {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       align-items: center;
+	
     }
  
     .animal-photo {
       margin: 10px;
+		 border-radius:12px;
     }
+h1{
+	text-align:center;
+}
+

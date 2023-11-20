@@ -1,5 +1,4 @@
-//your JS code here. If required.
-   var animals = [
+ var animals = [
       'camel',
       'cheetah',
       'elephant',
@@ -26,4 +25,3 @@
  
     // Call the function to render the animal photos
     renderAnimalPhotos();
-  </script>
